@@ -3,7 +3,6 @@ from rest_framework.parsers import MultiPartParser, FormParser
 from rest_framework.response import Response
 from rest_framework import status
 
-import imutils
 import numpy as np
 import face_recognition
 import datetime
